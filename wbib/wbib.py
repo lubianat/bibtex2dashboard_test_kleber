@@ -31,8 +31,8 @@ def render_dashboard(readings):
             Creative Commons CC0</a> license.
   '''
   code_availability_statement = '''
-  Source code for the website available at <a target="_blank" href="https://github.com/lubianat/bibtex2dashboard">
-            https://github.com/lubianat/bibtex2dashboard </a>
+  Source code for the website available at <a target="_blank" href="https://github.com/lubianat/bibtex2dashboard_test_kleber">
+            https://github.com/lubianat/bibtex2dashboard_test_kleber </a>
   '''
 
   scholia_credit_statement = '''

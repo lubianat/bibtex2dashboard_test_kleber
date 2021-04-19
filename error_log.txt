@@ -1,0 +1,63 @@
+Titles that were not found on Wikidata: 
+Brazil's Scientists Fight Funding Freeze
+The SAGE Handbook of Applied Social Research Methods
+Open Access to Scientific Publications - an Analysis of the Barriers to Change
+Theory and Observation in Science
+Reductionism in Biology
+Grassroots Training for Reproducible Science: A Consortium-Based Approach to the Empirical Dissertation
+Replicability, Reproducibility, and Robustness: Comments on Harry Collins
+Mechanisms in Science
+Does the arXiv Lead to Higher Citations and Reduced Publisher Downloads for Mathematics Articles?
+Does Good Science Lead to Valuable Knowledge? Biotechnology Firms and the Evolutionary Logic of Citation Patterns
+Simulations, Models, and Theories: Complex Physical Systems and Their Representations
+Fiscal Crisis Has Brazilian Scientists Scrambling
+Experiment vs. Theory: The Eternal Debate \textendash Uncertain Principles Archive
+WHO, WHAT, WHEN, WHERE, AND WHY? QUANTIFYING AND UNDERSTANDING BIOMEDICAL DATA REUSE
+The New Reality of Reproducibility: The Role of Data Work in Scientific Research
+Experiment in Physics
+The Transformation of Research Findings into Scientific Knowledge
+Why We Must Change: The Research Evidence
+Rejoinder to Discussion of `Philosophy and the Practice of Bayesian Statistics'
+Global Scientific Output Doubles Every Nine Years : News Blog
+On Our Duties as Scientists
+Philosophy of Systems and Synthetic Biology
+Has Theoretical Physics Moved Too Far Away from Experiments? Is the Field Entering a Crisis and, If so, What Should We Do about It? | Perimeter Institute
+Research Synthesis as a Scientific Process
+The Future of Biocuration: Big Data
+Interplay between Ideas and Empirical Observations: The Essential Core of the Scientific Tradition.
+Theorists, Experimentalists and the Bias in Popular Physics
+General Philosophy of Science: Focal Issues
+Making Sense of Data-Driven Research in the Biological and Biomedical Sciences
+Formation of Scientific Fields as a Universal Topological Transition
+Bioinformatics for Omics Data: Methods and Protocols
+Why Summaries Of Research On Psychological Theories Are Often Uninterpretable
+The Mistaken Assumptions That Changed Physics History - The Nature of Reality \textemdash The Nature of Reality | PBS
+Models Are Experiments, Experiments Are Models
+Historicist Theories of Scientific Rationality
+Bridging the Gap Between Theory and Practice with Design-Based Action Research
+Promoting an Open Research Culture
+OPEN SCIENCE: Where Are We? How Did We Get Here? Where to We Go from Here?
+Uses and Reuses of Scientific Data: The Data Creators' Advantage\textemdashSupplemental Materials
+The Physicist's Toolkit
+Experimental Reproducibility and the Experimenters' Regress
+Frugal Science Gets DIY Diagnostics to World's Poorest
+The Research Parasite Awards
+Why the Distinction between Basic (Theoretical) and Applied (Practical) Research Is Important in the Politics of Science
+What Do Data Really Mean?
+Enabling Confirmatory Secondary Data Analysis by Logging Data `Checkout'
+Atlas \textendash a Data Warehouse for Integrative Bioinformatics
+BEYOND THE IVORY TOWER: What Kind of Science Is Experimental Physics?
+Evolutionary Social Science Needs Programmatic Training in How Models Work
+Purposeful Sampling in Qualitative Research Synthesis
+What Is ``Model Building''?
+Designing Data Science Workshops for Data-Intensive Environmental Science Research
+In Theory: Which Came First\ldots? | CERN
+In Theory: Why Bother with Theoretical Physics? | CERN
+On the Nature of Theoretical Research
+The Promise of Cost-Conscious Science
+Image Data Resource: A Bioimage Data Integration and Publication Platform
+Computer Simulations in Science
+The Structure of Scientific Theories
+Toward Training and Assessing Reproducible Data Analysis in Data Science Education
+Citation Analysis Using Scientific Publications on the Web as Data Source: A Case Study in the XML Research Area
+``But the Data Is Already Public'': On the Ethics of Research in Facebook
